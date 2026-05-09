@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Header.png" width="500" height="220" alt="Broken_Mirror" />
+  <img src="./Header.png" width="225" height="220" alt="Broken_Mirror" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   - 基于 muduo 思想的双人游戏服务器
   - Gin 后端开发学习
   - Linux 网络编程 / 多线程 Reactor
-
+-如果有兴趣的话可以阅读[这些](/Broken-Mirror215/introcude.cpp)来初步了解我喵 
 <br />
 
 ## 技术栈
