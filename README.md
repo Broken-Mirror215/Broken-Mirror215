@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Header.png" width="225" height="220" alt="Broken_Mirror" />
+  <img src="./Header.png" width="225" height="300" alt="Broken_Mirror" />
 </p>
 
 <p align="center">
